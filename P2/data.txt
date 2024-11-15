@@ -1,0 +1,1 @@
+Grupo: X, Fecha-Hora: dd/mm/yy, Temperatura: xxx ◦C, Humedad: xxx %
